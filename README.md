@@ -38,7 +38,5 @@ This project distributes groups of hexagonal cells within an irregular polygon (
 |----------------------|--------------------------|------------------------|
 | ![Initial](./images/Ejemplo1.1.png) | ![Initial](./images/Ejemplo1.2.png) | ![Initial](./images/Ejemplo1.3.png) |
 | ![Initial](./images/Ejemplo2.1.png) | ![Initial](./images/Ejemplo2.2.png) | ![Initial](./images/Ejemplo2.3.png) |
+| ![Initial](./images/Ejemplo3.1.png) | ![Initial](./images/Ejemplo3.2.png) | ![Initial](./images/Ejemplo3.3.png) |
 
----
-
-¿Quieres que te ayude a generar la segunda imagen de resultados (`Final Optimized Layout`) automáticamente con código? También puedo convertir este contenido en archivo `.md` si lo deseas.
