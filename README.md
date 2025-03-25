@@ -36,7 +36,8 @@ This project distributes groups of hexagonal cells within an irregular polygon (
 
 | Initial Area | Dividing Area into Cells | Final Optimized Layout |
 |----------------------|--------------------------|------------------------|
-| ![Initial](./image.png) | *(Add final result image here)* |
+| ![Initial](./images/Ejemplo1.1.png) | ![Initial](./images/Ejemplo1.2.png) | ![Initial](./images/Ejemplo1.3.png) |
+| ![Initial](./images/Ejemplo2.1.png) | ![Initial](./images/Ejemplo2.2.png) | ![Initial](./images/Ejemplo2.3.png) |
 
 ---
 
