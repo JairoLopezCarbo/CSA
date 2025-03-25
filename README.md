@@ -1,7 +1,3 @@
-¡Perfecto! Aquí tienes el `README.md` adaptado exactamente al estilo del ejemplo que me mostraste, con las secciones y formato correcto, y los cambios que pediste:
-
----
-
 # Cell Segregation Algorithm (CSA)
 
 A Python-based simulator that models how cells of similar composition naturally segregate—like oil separating from water.  It distributes groups of hexagonal cells inside a complex polygon (including holes), optimizing for compactness, group cohesion, and minimal inter-group contact.  This can be used to zone complex areas by assigning distinct properties to each group, useful in fields like biology, urban planning, agriculture, and game design.
